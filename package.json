@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+        "async": "^3.2.0",
+        "express": "*",
+        "geolib": "^3.3.1",
+        "redis": "^3.0.2",
+        "redis-redisearch": "^1.0.1",
+        "uuidv4": "^6.2.3"
+    },
+    "scripts": {
+        "start": "node redis-test.js"
+    }
+}
